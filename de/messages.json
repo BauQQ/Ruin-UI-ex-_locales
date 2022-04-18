@@ -1,0 +1,19 @@
+{
+   "appName": {
+       "message": "Ruin UI EX"
+     },
+     "appDesc": {
+       "message": "Hordes.io modification extension - Ruin UI EX"
+   },
+   "x_seconds": {
+       "message": "$count$ sekunder",
+       "placeholders": {
+          "count": {
+             "content": "$1"
+          }
+       }
+   },
+   "1": {
+      "message": "1"
+   }
+}
